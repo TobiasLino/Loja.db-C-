@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D3153EF9-B858-4741-8FC4-0BFB3FB1EAFD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Loja.BLL FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Loja" expanded="True">
+            <Node name="Loja.BLL" expanded="True" />
+            <Node name="Loja.DAL" expanded="True" />
+            <Node name="Loja.DTO" expanded="True">
+              <Node name="usuario_DTO.cs" selected="True" />
+            </Node>
+            <Node name="Loja.UI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Loja.DTO FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Loja.DAL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Loja.UI FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

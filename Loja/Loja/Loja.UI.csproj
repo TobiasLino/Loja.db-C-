@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="interface.cs" />
+    <Compile Remove="Interface.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Loja.BLL" />
+    <None Remove="Loja.DAL" />
+    <None Remove="Loja.UI" />
+    <None Remove="Loja.DTO" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Loja.BLL\Loja.BLL.csproj" />
+    <ProjectReference Include="..\Loja.DTO\Loja.DTO.csproj" />
+  </ItemGroup>
+</Project>
